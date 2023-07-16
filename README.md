@@ -2,4 +2,5 @@
 ## Goal 🎯
 - Practice HTML5, CSS3
 
-![meme](https://github.com/Eric-JongYoung/HTML_CSS_Practice/assets/104367020/f4401288-56e2-4306-bf71-e5a331f95f99)
+
+<img src="https://github.com/Eric-JongYoung/HTML_CSS_Practice/assets/104367020/4f07af37-d55a-4bf7-bf95-8735c50b724d)">
